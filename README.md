@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on pyhon
+- 🔭 I’m currently working on python
 - 🌱 I’m currently learning For python
 - 👯 I’m looking to collaborate on Python  
 - 🤔 I’m looking for help with python
