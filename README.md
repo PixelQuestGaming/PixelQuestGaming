@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Class 8
-- 🌱 I’m currently learning For Class 8
-- 👯 I’m looking to collaborate on Class 8 
-- 🤔 I’m looking for help with Class 8 
-- 💬 Ask me about Class 8 
+- 🔭 I’m currently working on pyhon
+- 🌱 I’m currently learning For python
+- 👯 I’m looking to collaborate on Python  
+- 🤔 I’m looking for help with python
+- 💬 Ask me about python
 - 📫 How to reach me , WhatsApp Me
 <!-- 
 - 😄 Pronouns: 
